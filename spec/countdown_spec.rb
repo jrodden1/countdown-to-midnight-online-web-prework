@@ -1,6 +1,6 @@
 require_relative './spec_helper'
 require 'benchmark'
-require '../countdown.rb'
+require_relative '../countdown.rb'
 
 describe 'LOOPS' do
 
